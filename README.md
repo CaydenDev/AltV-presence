@@ -1,4 +1,9 @@
-# English Discord Rich Presence for Alt:V
+# Übersicht/Oversight
+- [English](#English)
+- [German](#Deutsch)
+
+
+# English
 
 This project implements Discord Rich Presence in an Alt:V client to display the status of players in a game. This documentation explains the basic functions and usage of the script.
 
@@ -67,7 +72,7 @@ This script is Licensed under the MIT License.
 
 
 
-# German/Deutsche Discord Rich Presence für Alt:V
+# Deutsch
 
 Dieses Projekt implementiert Discord Rich Presence in einem Alt:V-Client, um den Status der Spieler in einem Spiel anzuzeigen. Diese Dokumentation beschreibt die grundlegenden Funktionen und die Nutzung des Skripts.
 
